@@ -15,7 +15,8 @@
 
 Прикрепите в файл README.md скриншот авторизации в админке
 
-![image](https://github.com/nikotin8899/home-lab/assets/56605975/3817ea24-a187-475a-b64e-0834c974f845)
+![image](https://github.com/nikotin8899/home-lab/assets/56605975/9160156f-9397-4803-a808-30943b9dd7d0)
+
 
 Приложите в файл README.md текст использованных команд в GitHub
 
