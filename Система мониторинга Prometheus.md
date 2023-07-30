@@ -69,4 +69,5 @@
 
 #### Требования к результату
 Прикрепите к файлу README.md скриншот дашборда (ID:11074) с поступающими туда данными из Node Exporter
-![image](https://github.com/nikotin8899/home-lab/assets/56605975/5e63958a-d7a7-4377-b84a-99065fa95107)
+![image](https://github.com/nikotin8899/home-lab/assets/56605975/ee9d516f-a617-43b6-9dd9-99026513adb4)
+
